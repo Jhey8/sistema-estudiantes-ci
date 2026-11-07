@@ -1,0 +1,24 @@
+{
+  "name": "sistema-estudiantes-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhey8/sistema-estudiantes-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jhey8/sistema-estudiantes-ci/issues"
+  },
+  "homepage": "https://github.com/Jhey8/sistema-estudiantes-ci#readme",
+  "devDependencies": {
+    "vitest": "^5.1.0"
+  }
+}
